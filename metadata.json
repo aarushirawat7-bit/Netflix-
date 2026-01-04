@@ -1,0 +1,5 @@
+{
+  "name": "Netflix Catalog Supply Insights",
+  "description": "A boardroom-ready analytics dashboard for exploring Netflix's content supply, including geographic concentration, content mix, and audience suitability analysis.",
+  "requestFramePermissions": []
+}
